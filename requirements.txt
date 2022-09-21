@@ -1,0 +1,6 @@
+flask
+requests
+flask-cors
+flasgger
+js2py
+cbor2
