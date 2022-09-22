@@ -1,6 +1,6 @@
 version: "3.3"
 services:
-  web:
+  decoder:
     build: .
     image: decoders
     container_name: decoders_cntnr
