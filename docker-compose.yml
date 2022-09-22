@@ -1,0 +1,8 @@
+version: "3.3"
+services:
+  web:
+    build: .
+    image: decoders
+    container_name: decoders_cntnr
+    ports:
+      - "1021:1021"
