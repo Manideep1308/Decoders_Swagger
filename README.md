@@ -1,4 +1,4 @@
 # Decoders_Swagger
 
 
-This is simple Swagger ui of CBOR and Elsys Decoders python API's
+This is simple Swagger ui for CBOR and Elsys Decoder using Python.
