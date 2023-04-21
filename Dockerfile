@@ -10,4 +10,4 @@ COPY decode_swagger.py .
 
 EXPOSE 1021
 
-CMD ["python", "decode_swagger.py"]clear
+CMD ["python", "decode_swagger.py"]

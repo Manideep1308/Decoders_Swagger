@@ -7,7 +7,7 @@ import js2py
 app = Flask(__name__)
 CORS(app) 
 app.config['SWAGGER'] = {
-    'title': 'Decoding Demo',
+    'title': 'Decoding Demo Example',
     'uiversion': 3,
     'version': "1.0.0",
     'description': "This is a simple `Payload Decoding` swagger UI where we can decode the payloads of type hexadecimal string. ",
