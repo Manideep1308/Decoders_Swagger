@@ -26,7 +26,7 @@ def init():
       - "Decoders"
     parameters:
       - name: payload
-        in: query
+        in: query  lr
         type: string
         required: false
 
